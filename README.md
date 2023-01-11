@@ -12,6 +12,8 @@
 
 ```$ cd LinkBypasser```
 
+```Fill Variables Values in config.py.```
+
 ```$ pip3 install -r requirements.txt```
 
 ```$ python3 main.py```
