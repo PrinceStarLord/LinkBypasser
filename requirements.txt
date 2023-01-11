@@ -1,0 +1,10 @@
+requests
+cloudscraper
+bs4 
+python-dotenv
+pyrogram
+tgcrypto
+lxml
+lk21
+cfscrape
+PyBypass
