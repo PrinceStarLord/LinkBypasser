@@ -11,6 +11,8 @@
 
 ```$ cd LinkBypasser```
 
+```$ nano config.py```
+
 ```Fill Variables Values in config.py.```
 
 ```$ pip3 install -r requirements.txt```
