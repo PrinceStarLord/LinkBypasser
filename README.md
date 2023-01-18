@@ -13,7 +13,7 @@
 
 ```$ nano config.py```
 
-**Fill config.py.
+**Fill config.py.**
 
 ```$ pip3 install -r requirements.txt```
 
